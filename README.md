@@ -1,5 +1,5 @@
 # E-commerce
- * E-commerce simples de facas
+ * E-commerce (Responsivo) simples de facas
 
  ## Características
  * Site Feito em HTML, CSS (Bootstrap), JavaScript.
