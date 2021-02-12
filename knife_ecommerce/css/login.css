@@ -1,0 +1,22 @@
+label{
+    margin:10px;
+
+}
+input{
+    margin: 3px;
+}
+.botao{
+    height: auto;
+    text-decoration: none;
+    color: black;
+   
+}
+.aviso{
+    color: red;
+}
+h1{
+    margin-top: 10px;
+}
+.login{
+    margin-top: 15px;
+}

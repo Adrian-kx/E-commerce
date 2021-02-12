@@ -1,0 +1,113 @@
+* {
+    align-content: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.097);
+}
+
+.nav-link {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.logo {
+    width: 90px;
+    height: 85px;
+}
+
+.navbar {
+    background-color: rgba(80, 78, 78, 0.412) !important;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: center;
+}
+
+.ic {
+    height: 100% !important;
+}
+
+.titles {
+    font-size: 45px;
+    font-weight: bold;
+    margin: 40px auto;
+}
+.sn{
+    display: flex;
+    margin: 5px auto;
+    margin-top: 10px;
+    width: 80%;
+    
+}
+
+.card-img-top{
+    margin: 0;
+}
+.breadcrump{
+    background-color: rgba(80, 78, 78, 0.741) !important;
+}
+
+.card {
+
+    margin:  10px 15px;
+    padding: 0;
+}
+.carousel{
+    border-radius: 5px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
+.voltarTopo{
+    color: black;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px rgb(0, 0, 0) ;
+    padding: 2px;
+    text-decoration: none;
+    
+
+
+    
+}
+.mvt{
+    margin-top: 30px;
+}
+.voltarTopo:hover{
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.659) ;
+    color: black;
+    text-decoration: none;
+}
+
+.preco-por {
+    font-size: 20px;
+}
+.preco-de {
+    font-size: 17px;
+}
+.preco {
+    font-weight: bold;
+    font-style: italic;
+    text-align: end;
+    margin-top: 15px;
+}
+hr{
+    background-color: black;
+}
+.fo{
+    margin-top: 40px;
+    background-color: rgba(0, 0, 0, 0.145);
+}
+.button{
+    margin: 5px;
+}
