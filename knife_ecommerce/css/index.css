@@ -111,3 +111,6 @@ hr{
 .button{
     margin: 5px;
 }
+.card-text{
+    -webkit-line-clamp: 2;
+}
